@@ -388,25 +388,5 @@
     	    $(".charterslide").slideToggle(700);
           $(this).remove();
     });
-
-    $("#fswdtoggle").click(function(){
-    	    $(".fswd").slideToggle(700);
-    });
-
-    $("#bgdtoggle").click(function(){
-    	    $(".bgd").slideToggle(700);
-    });
-
-    $("#citoggle").click(function(){
-    	    $(".ci").slideToggle(700);
-    });
-
-    $("#safatoggle").click(function(){
-    	    $(".safa").slideToggle(700);
-    });
-
-    $('.othtoggle').click(function(){
-      alert('test');
-    	    $(".oth").slideToggle(700);
-    });
+    
 })(jQuery);

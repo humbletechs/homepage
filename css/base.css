@@ -833,6 +833,33 @@ textarea {
  * ## mobile devices
  * ------------------------------------------------------------------- */
 @media only screen and (max-width:600px) {
+  #fswdtoggle,
+  #bgdtoggle,
+  #citoggle,
+  #safatoggle,
+  #othtoggle
+  {
+    color: #5BF445;
+  }
+
+  .fswd>p,
+  .bgd>p,
+  .ci>p,
+  .safa>p,
+  .oth>p
+  {
+    color:white;
+  }
+
+  .fswd>p>i,
+  .bgd>p>i,
+  .ci>p>i,
+  .safa>p>i,
+  .oth>p>i
+  {
+    color: #70FEB2;
+  }
+
   .block-mob-1-6 .col-block {
     width: 16.66667%;
   }
@@ -949,4 +976,30 @@ textarea {
   text-align: center;
 }
 
+#fswdtoggle,
+#bgdtoggle,
+#citoggle,
+#safatoggle,
+#othtoggle
+{
+  color: #5BF445;
+}
+
+.fswd>p,
+.bgd>p,
+.ci>p,
+.safa>p,
+.oth>p
+{
+  color:white;
+}
+
+.fswd>p>i,
+.bgd>p>i,
+.ci>p>i,
+.safa>p>i,
+.oth>p>i
+{
+  color: #70FEB2;
+}
 /*# sourceMappingURL=base.css.map */
