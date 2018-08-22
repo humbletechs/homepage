@@ -3392,7 +3392,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 18rem;
+  padding-top: 5rem;
   padding-bottom: 12rem;
   background-color: #151515;
   position: relative;
@@ -3429,7 +3429,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-infos {
-  margin-top: 12rem;
+  margin-top: 8rem;
   margin-bottom: 3rem;
   font-family: "Montserrat", sans-serif;
   font-weight: normal;
